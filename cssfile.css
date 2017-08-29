@@ -1,0 +1,33 @@
+body,html{
+	height: 100%;
+    margin: 0;
+
+}
+
+p,h1{
+	color: white;
+	text-align: center;
+}
+
+.container{
+	margin: auto;
+	width: 1583px;
+	background-color: #1c1221;
+}
+
+
+.bildSs{
+	display: block;
+	height: auto;
+	width: 50%;
+	margin: auto;
+	padding-top: 25px;
+}
+
+#divright{
+background: #00111f;
+width: 80%;
+height: 1700px;
+margin: auto;
+}
+
